@@ -1,4 +1,4 @@
 
 class Two{
-  
+  int hel;
 }
